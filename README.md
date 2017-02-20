@@ -11,11 +11,15 @@
 
 ## Curriculum
 
-- [Linear Algebra](#linear-algebra)
-- [Probability and Statistics](#probability-and-statistics)
-- [Introduction to Data Science](#introduction-to-data-science)
-- [Machine Learning](#machine-learning)
-- [Deep Learning](#deep-learning)
+- [Refresher Module](#refresher-module)
+  - [Mathematics](#mathematics)
+- [Core Concepts](#core-concepts)
+  - [Linear Algebra](#linear-algebra)
+  - [Probability and Statistics](#probability-and-statistics)
+  - [Introduction to Data Science](#introduction-to-data-science)
+- [Artificial Intelligence](#artificial-intelligence)
+  - [Machine Learning](#machine-learning)
+  - [Deep Learning](#deep-learning)
 
 [comment]: # ( ## Computer Science )
 [comment]: # ( TODO [romeira]: topic about my graduation in CS {19/02/17 22:52} )
@@ -23,12 +27,12 @@
 
 ---
 
-[comment]: # ( TODO [romeira]: divide in modules {19/02/17 22:53} )
 [comment]: # ( TODO [romeira]: create extra modules $ eg. not related or fundamental but userful: git, docker, creative deep learning... {19/02/17 22:53} )
 
 [comment]: # ( TODO [romeira]: some subjects here like calculus, linear algebra and statistics were taught at university, but they need refresher {20/02/17 17:22} )
 
 ## Refresher Module
+#### Mathematics 
 Courses | Duration | Effort
 :-- | :--: | :--:
 [MIT OCW Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)||
@@ -74,25 +78,19 @@ Courses | Duration | Effort
 
 ---
 
-[comment]: # ( ### Data Wrangling )
-[comment]: # ( TODO [romeira]: search {20/02/17 18:07} )
+## Modules to Come
+- [ ] Intro
+- [ ] My undergraduate CS program
+- [ ] Data Wrangling
+- [ ] Big Data / Spark
+- [ ] Projects / Kaggle
+- [ ] Specializations
+- [ ] Blog
+- [ ] Software Engineering
+- [ ] Back End development
+- [ ] Additional Resources
 
-[comment]: # ( ### Big Data )
-[comment]: # ( TODO [romeira]: spark {20/02/17 18:05} )
-
-
-
-[comment]: # ( ### Specializations )
-[comment]: # ( TODO [romeira]: build a specialization {20/02/17 16:46} )
-[comment]: # ( After finishing the courses above, start your specializations on the topics that you have more interest. )
-[comment]: # ( A list of available specializations: https://github.com/open-source-society/data-science/blob/master/extras/specializations.md. )
-
-[comment]: # ( ### Projects )
-[comment]: # ( TODO [romeira]: to-do and done projects {19/02/17 22:55} )
-[comment]: # ( TODO [romeira]: Participate in Kaggle competition {20/02/17 16:48} )
-
-[comment]: # ( ### Blog )
-[comment]: # ( TODO [romeira]: create blog posts to synthesize/summarize what you learned. {20/02/17 16:44} )
+[comment]: # ( TODO [romeira]: move this to a webpage at pauloromeira.com {20/02/17 18:41} )
 
 ## Credits
 - [Open Source Society](https://github.com/open-source-society) - [Data Science Path](https://github.com/open-source-society/data-science)
