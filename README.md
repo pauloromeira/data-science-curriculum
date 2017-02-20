@@ -1,4 +1,4 @@
-<h3 align="center">Data Science</h3>
+<h1 align="center">Data Science</h1>
 <p align="center">
   My personal path to a self-taught education in <strong>Data Science</strong>!
 </p>
