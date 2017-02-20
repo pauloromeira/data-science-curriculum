@@ -15,18 +15,15 @@
 - [Single Variable Calculus](#single-variable-calculus)
 - [Multivariable Calculus](#multivariable-calculus)
 - [Python](#python)
-- [Probability and Statistics with R](#probability-and-statistics-with-r)
+- [Probability and Statistics](#probability-and-statistics)
 - [Introduction to Data Science](#introduction-to-data-science)
 - [Machine Learning](#machine-learning)
-- [Project](#project)
 - [Convex Optimization](#convex-optimization)
 - [Data Wrangling](#data-wrangling)
 - [Big Data](#big-data)
 - [Database](#database)
 - [Deep Learning](#deep-learning)
 - [Natural Language Processing](#natural-language-processing)
-- [Capstone Project](#capstone-project)
-- [Specializations](#specializations)
 
 [comment]: # ( ## Computer Science )
 [comment]: # ( TODO [romeira]: topic about my graduation in CS {19/02/17 22:52} )
@@ -132,7 +129,7 @@ Courses | Duration | Effort
 [comment]: # ( TODO [romeira]: create blog posts to synthesize/summarize what you learned. {20/02/17 16:44} )
 
 ### Credits
-- [Open Source Society](https://github.com/open-source-society) - [Data Science Curriculum](https://github.com/open-source-society/data-science)
+- [Open Source Society](https://github.com/open-source-society) - [Data Science Path](https://github.com/open-source-society/data-science)
 - [David Venturi](http://davidventuri.com/) - [Data Science Master's Curriculum](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412)
 
 [comment]: # ( TODO [romeira]: list other references {19/02/17 22:55} )
