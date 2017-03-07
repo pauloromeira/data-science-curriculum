@@ -61,6 +61,8 @@ Courses | Duration | Effort
 [Data Science - CS109 from Harvard](http://cs109.github.io/2015/)| 12 weeks | 5-6 hours/week
 [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)| 12 weeks | 10-15 hours/week
 
+[comment]: # ( TODO [romeira]: do a better research about intros to DS {20/02/17 18:58} )
+
 ---
 
 ## Artificial Intelligence
@@ -95,6 +97,17 @@ Courses | Duration | Effort
 ## Credits
 - [Open Source Society](https://github.com/open-source-society) - [Data Science Path](https://github.com/open-source-society/data-science)
 - [David Venturi](http://davidventuri.com/) - [Data Science Master's Curriculum](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412)
+- [Class Central](https://www.class-central.com)
 
 [comment]: # ( TODO [romeira]: list other references {19/02/17 22:55} )
 
+[comment]: # ( TODO [romeira]: organize other topics: {20/02/17 22:48} )
+[comment]: # ( data analysis - numpy, pandas )
+[comment]: # ( data visualization - seaborn, matplotlib... )
+[comment]: # ( data cleaning - pandas )
+[comment]: # ( data science topics - Clustering, Natural Language Processing,
+Naive Bayes For Sentiment Analysis, K-Nearest Neighbors )
+[comment]: # ( apis and web scraping - data sources )
+[comment]: # ( big data tools - spark, map-reduce )
+[comment]: # ( databases and sql )
+[comment]: # ( the command line )
