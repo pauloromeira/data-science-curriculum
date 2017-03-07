@@ -105,8 +105,7 @@ Courses | Duration | Effort
 [comment]: # ( data analysis - numpy, pandas )
 [comment]: # ( data visualization - seaborn, matplotlib... )
 [comment]: # ( data cleaning - pandas )
-[comment]: # ( data science topics - Clustering, Natural Language Processing,
-Naive Bayes For Sentiment Analysis, K-Nearest Neighbors )
+[comment]: # ( data science topics - Clustering, Natural Language Processing, Naive Bayes For Sentiment Analysis, K-Nearest Neighbors )
 [comment]: # ( apis and web scraping - data sources )
 [comment]: # ( big data tools - spark, map-reduce )
 [comment]: # ( databases and sql )
