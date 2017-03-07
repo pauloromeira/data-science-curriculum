@@ -35,7 +35,7 @@
 #### Mathematics 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[MIT OCW Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)||
+[MIT OCW Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)| 150 hours | 
 
 [comment]: # ( TODO [romeira]: calculus: single and multi variable {20/02/17 18:14} )
 
