@@ -75,8 +75,8 @@ Courses | Duration | Effort
 #### Deep Learning
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Deep Learning Book](https://www.deeplearningbook.org)||
-[Creative Tensorflow](http://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv)||
+[Deep Learning Book](http://www.deeplearningbook.org)||
+[Creative Tensorflow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv)||
 
 ---
 
