@@ -51,8 +51,8 @@ Courses | Duration | Effort
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Introduction to Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1#.U3yb762SzIo)| 16 weeks | 12 hours/week
-[Foundations of Data Analysis - Part 1: Statistics Using R](https://courses.edx.org/courses/course-v1:UTAustinX+UT.7.11x+3T2016)||
-[Foundations of Data Analysis - Part 2: Inferential Statistics](https://courses.edx.org/courses/course-v1:UTAustinX+UT.7.21x+3T2016)||
+[Foundations of Data Analysis - Part 1: Statistics Using R](https://www.edx.org/course/foundations-data-analysis-part-1-utaustinx-ut-7-11x)| 6 weeks | 3-6 hours/week
+[Foundations of Data Analysis - Part 2: Inferential Statistics](https://www.edx.org/course/foundations-data-analysis-part-2-utaustinx-ut-7-21x)| 6 weeks | 3-6 hours/week
 
 #### Introduction to Data Science
 Courses | Duration | Effort
