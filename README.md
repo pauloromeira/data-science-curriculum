@@ -43,7 +43,7 @@ Courses | Duration | Effort
 #### Linear Algebra
 Courses | Duration | Effort
 :-- | :--: | :--:
-[MIT OCW Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)| 150 hours |
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-05x)| 15 weeks | 8 hours/week
 [Applications of Linear Algebra Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1)| 5 weeks | 4 hours/week
 [Applications of Linear Algebra Part 2](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2)| 4 weeks | 5 hours/week
 
