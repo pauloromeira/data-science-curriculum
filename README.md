@@ -69,8 +69,8 @@ Courses | Duration | Effort
 #### Machine Learning
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)| - weeks | 3 hours/week
-[Stanford's Machine Learning Course](https://www.coursera.org/learn/machine-learning)| - weeks | 8-12 hours/week
+[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)| 9 weeks | 5 hours/week
+[Stanford's Machine Learning Course](https://www.coursera.org/learn/machine-learning)| 11 weeks | 8-12 hours/week
 
 #### Deep Learning
 Courses | Duration | Effort
