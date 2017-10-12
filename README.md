@@ -4,7 +4,6 @@
 </p>
 
 [comment]: # ( TODO [romeira]: a pyramid chart to represent the path {19/02/17 22:50} )
-[comment]: # ( TODO [romeira]: include books {19/02/17 22:50} )
 
 [comment]: # ( ## Intro )
 [comment]: # ( TODO [romeira]: intro {20/02/17 16:53} )
@@ -17,6 +16,7 @@
   - [Linear Algebra](#linear-algebra)
   - [Probability and Statistics](#probability-and-statistics)
   - [Introduction to Data Science](#introduction-to-data-science)
+- [Data Analysis](#data-analysis)
 - [Artificial Intelligence](#artificial-intelligence)
   - [Machine Learning](#machine-learning)
   - [Deep Learning](#deep-learning)
@@ -54,6 +54,11 @@ Courses | Duration | Effort
 [Foundations of Data Analysis - Part 1: Statistics Using R](https://www.edx.org/course/foundations-data-analysis-part-1-utaustinx-ut-7-11x)| 6 weeks | 3-6 hours/week
 [Foundations of Data Analysis - Part 2: Inferential Statistics](https://www.edx.org/course/foundations-data-analysis-part-2-utaustinx-ut-7-21x)| 6 weeks | 3-6 hours/week
 
+#### Data Analysis Tools
+Courses | Duration | Effort
+:-- | :--: | :--:
+[Python for Data Analysis, 2nd Edition](http://shop.oreilly.com/product/0636920050896.do)||
+
 #### Introduction to Data Science
 Courses | Duration | Effort
 :-- | :--: | :--:
@@ -71,6 +76,7 @@ Courses | Duration | Effort
 :-- | :--: | :--:
 [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)| 9 weeks | 5 hours/week
 [Stanford's Machine Learning Course](https://www.coursera.org/learn/machine-learning)| 11 weeks | 8-12 hours/week
+[Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do)||
 
 #### Deep Learning
 Courses | Duration | Effort
@@ -102,7 +108,6 @@ Courses | Duration | Effort
 [comment]: # ( TODO [romeira]: list other references {19/02/17 22:55} )
 
 [comment]: # ( TODO [romeira]: organize other topics: {20/02/17 22:48} )
-[comment]: # ( data analysis - numpy, pandas )
 [comment]: # ( data visualization - seaborn, matplotlib... )
 [comment]: # ( data cleaning - pandas )
 [comment]: # ( data science topics - Clustering, Natural Language Processing, Naive Bayes For Sentiment Analysis, K-Nearest Neighbors )
